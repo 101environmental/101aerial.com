@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Falconry"
-    url: /falconry/
-  - title: "Drones"
-    url: /drones/
+  - title: "Bird control"
+    url: /bird-control/
+  - title: "Aerial inspection"
+    url: /aerial-inspection/
+  - title: "Falconry experiences"
+    url: /falconry-experiences/
   - title: "Contact"
     url: /contact
   # - title: "Sample Collections"
