@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Chris Bullock"
-  avatar           : /assets/images/chris.jpg"
+  avatar           : "/assets/images/chris.jpg"
   bio              : "Founder and Director, 101 Aerial."
   location         : "South West, UK"
   email            : 
