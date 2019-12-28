@@ -16,7 +16,7 @@ feature_row:
   - image_path: assets/images/artemis_temple_meads.jpg
     title: "Bird control"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "/bird-control/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/care_home.jpg
