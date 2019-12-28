@@ -9,11 +9,9 @@ header:
   actions:
     - label: "Get in touch"
       url: "/contact/"
-excerpt: "Urban and rural feral bird control. Environment management. Aerial inspection and survey. Get in touch to discuss how 101 Aerial can support your business."
+excerpt: "Urban and rural feral bird control. Environment management. Aerial inspection and survey. BPCA/RSPH/IBR/CAA certified and registered."
 intro:
-  - excerpt: 'From bird control, to aerial filming and imaging, to an unforgettable falconry experience -- *101 Aerial can help you soar*.
-
-  **CAA/BPCA/RSPH certified. IBR registered.**'
+  - excerpt: 'From bird control, to aerial filming and imaging, to an unforgettable falconry experience -- *101 Aerial can help you soar*.'
 feature_row:
   - image_path: assets/images/artemis_temple_meads.jpg
     title: "Bird control"
