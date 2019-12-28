@@ -108,10 +108,10 @@ analytics:
 # Site Author
 author:
   name             : "Chris Bullock"
-  avatar           : /assets/images/chris_silhouette.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/chris_silhouette.jpg"
   bio              : "Founder and Director, 101 Aerial."
   location         : "South West, UK"
-  email            : "mailto:chris@101aerial.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
