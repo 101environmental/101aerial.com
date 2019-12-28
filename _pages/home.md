@@ -11,7 +11,7 @@ header:
       url: "/contact/"
 excerpt: "Urban and rural feral bird control. Environment management. Aerial inspection and survey. CAA/BPCA/RSPH certified. IBR registered. South West UK."
 intro:
-  - excerpt: 'From bird control, to aerial filming and imaging, to an unforgettable falconry experience. 101 Aerial can help you soar.'
+  - excerpt: 'From bird control, to aerial filming and imaging, to an unforgettable falconry experience -- *101 Aerial can help you soar*.'
 feature_row:
   - image_path: assets/images/artemis_temple_meads.jpg
     title: "Bird control"
