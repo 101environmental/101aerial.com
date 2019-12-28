@@ -8,6 +8,6 @@ permalink: /contact/
   Your name:<input type='text' name='client_name' />
   Your email:<input type='text' name='client_email' />
   Your phone: <input type='text' name='client_phone' />
-  <textarea name="message"></textarea>
+  Your message: <textarea name="message"></textarea>
   <button type='submit'>Send</button>
 </form>
