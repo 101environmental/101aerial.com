@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-GB"
 title                    : "101 Aerial"
 title_separator          : "-"
-subtitle                 : "falconry | drones | inspection | environmental" # site tagline that appears below site title in masthead
+subtitle                 : "falconry | drones | environment | inspection" # site tagline that appears below site title in masthead
 name                     : "Chris Bullock"
 description              : "Founder and Director, 101 Aerial."
 url                      : "https://101aerial.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
