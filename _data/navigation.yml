@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Contact"
-    url: /contact
-  - title: "Drones"
-    url: /drones/
   - title: "Falconry"
     url: /falconry/
+  - title: "Drones"
+    url: /drones/
+  - title: "Contact"
+    url: /contact
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
