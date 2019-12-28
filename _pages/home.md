@@ -1,7 +1,7 @@
 ---
 title: "101 Aerial"
 layout: splash
-permalink: /
+permalink: /test/
 date: 2019-12-28
 header:
   overlay_color: "#000"
