@@ -12,5 +12,5 @@ permalink: /contact/
   <button type='submit'>Send</button>
 </form>
 
-Or just fire me an email at <a href="mailto:chris@101aerial.com?subject='101 Aerial website enquiry'">chris@101aerial.com</a>
+Or just fire me an email at <a href="mailto:chris@101aerial.com?subject=101 Aerial website enquiry">chris@101aerial.com</a>
 !
