@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/artemis_temple_meads.jpg
+  overlay_image: /assets/images/stmonicas.jpg
   actions:
     - label: "Get in touch"
       url: "/contact/"
