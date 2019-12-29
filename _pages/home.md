@@ -9,9 +9,9 @@ header:
   actions:
     - label: "Get in touch"
       url: "/contact/"
-excerpt: "Urban and rural feral bird control. Environment management. Aerial inspection and surveying. Falconry experiences. If it's in the air, we're on it."
+excerpt: "Urban and rural feral bird control. Environment management. Aerial inspection and surveying. Falconry experiences. If it's in the air, we're on it. <br /><small>BPCA/RSPH/IBR/CAA certified and registered.</small>"
 intro:
-  - excerpt: 'BPCA/RSPH/IBR/CAA certified and registered.'
+  - excerpt: ''
 feature_row:
   - image_path: /assets/images/artemis_temple_meads.jpg
     title: "Bird control"
