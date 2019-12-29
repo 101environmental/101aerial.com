@@ -46,6 +46,32 @@ gallery3:
     image_path: /assets/images/siteroof3.jpg
     alt: "industrial site roof 3"
     title: "Warehouse roof solar panels"
+gallery4:
+  - url: /assets/images/yuneec_championship.jpg
+    image_path: /assets/images/yuneec_championship.jpg
+    alt: "Yuneec Typhoon at motocross championship"
+    title: "Yuneec Typhoon at motocross championship"
+  - url: /assets/images/yuneec_motocross.jpg
+    image_path: /assets/images/yuneec_motocross.jpg
+    alt: "Yuneec Typhoon at motocross championship"
+    title: "Yuneec Typhoon at motocross championship"
+  - url: /assets/images/cliftonbridge.jpg
+    image_path: /assets/images/cliftonbridge.jpg
+    alt: "Clifton Suspension Bridge"
+    title: "Clifton Suspension Bridge"
+gallery5:
+  - url: /assets/images/yuneec_path.jpg
+    image_path: /assets/images/yuneec_path.jpg
+    alt: "Yuneec Typhoon"
+    title: "Yuneec Typhoon"
+  - url: /assets/images/yuneec_mavic.jpg
+    image_path: /assets/images/yuneec_mavic.jpg
+    alt: "Yuneec Typhoon and DJI Mavic"
+    title: "Yuneec Typhoon and DJI Mavic"
+  - url: /assets/images/yuneec_safety.jpg
+    image_path: /assets/images/yuneec_safety.jpg
+    alt: "Safe aerial operations"
+    title: "Safe aerial operations"
 ---
 
 Need to check your roof for maintenance issues and nests? Want an aerial view for site planning? Or a video of your event from above?
@@ -60,6 +86,14 @@ We've inspected new and old builds for maintenance issues:
 
 And we've supported industrial site maintenance, detecting and then using our [falconry services](/bird-control/) to deter nesting and eliminate issues from droppings:
 {% include gallery id="gallery3" %}
+
+We also love filming events, from sports to adventures:
+{% include gallery id="gallery4" %}
+
+We operate with the utmost professionalism, and safety is always at the forefront of our minds. We use a range of drones, including those with additional motors and propellers for increased redundancy.
+{% include gallery id="gallery5" %}
+
+If you'd like to discuss what we can do for you, just get in touch!
 
 [Contact us for a FREE site survey and quote](/contact/){: .btn .btn--warning .btn--large .align-center}
 
