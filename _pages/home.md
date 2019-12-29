@@ -35,8 +35,8 @@ contact:
 
 {% include feature_row %}
 
-[Contact us](/contact/) for a **FREE** site survey, planning meeting, and quote.
+[Contact us](/contact/) for a **FREE** site survey, planning meeting, and quote.{: .align-center}
 
-[Follow us on Instagram](https://instagram.com/101aerial/) to see our work.
+[Follow us on Instagram](https://instagram.com/101aerial/) to see our work.{: .align-center}
 
 <div class='embedsocial-instagram' data-ref="c8e833a6a7ddacbed6df04c150834b6e328f091d"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/in.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialInstagramScript"));</script>
