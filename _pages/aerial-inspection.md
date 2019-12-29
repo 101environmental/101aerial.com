@@ -24,6 +24,6 @@ We've inspected new and old builds for maintenance issues:
 
 And we've supported industrial site maintenance, detecting and ([using our falconry services](/bird-control)) deterring nesting and eliminating issues from droppings:
 
-[Contact us for a FREE site survey, planning meeting, and quote](/contact/){: .btn .btn--warning .btn--large .align-center}
+[Contact us for a FREE site survey and quote](/contact/){: .btn .btn--warning .btn--large .align-center}
 
 [Follow us on Instagram to see our work](https://instagram.com/101aerial/){: .btn .btn--info .align-center}
