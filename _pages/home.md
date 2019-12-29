@@ -15,19 +15,19 @@ feature_row:
     title: "Bird control"
     excerpt: "Management of urban and industrial avian pests and associated problems."
     url: "/bird-control/"
-    btn_label: "Read More"
+    btn_label: "Learn more"
     btn_class: "btn--primary"
   - image_path: /assets/images/care_home.jpg
     title: "Aerial inspection"
     excerpt: "Cost-effective inspection of inaccessible areas for industry and construction."
     url: "/aerial-inspection/"
-    btn_label: "Read More"
+    btn_label: "Learn more"
     btn_class: "btn--primary"
   - image_path: /assets/images/chris_catching_arty.jpg
     title: "Falconry experiences"
     excerpt: "Get up close and personal with birds of prey. An unforgettable experience for all ages."
     url: "/falconry-experiences/"
-    btn_label: "Read More"
+    btn_label: "Learn more"
     btn_class: "btn--primary"
 contact:
   - excerpt: '[Get in touch](/contact/) to book services or find out more.'
