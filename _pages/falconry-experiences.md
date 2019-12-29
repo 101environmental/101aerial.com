@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/chris_catching_arty.jpg
+  overlay_image: /assets/images/chris_catching_arty2.jpg
   actions:
     - label: "Get in touch"
       url: "/contact/"
