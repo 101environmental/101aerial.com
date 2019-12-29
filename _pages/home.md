@@ -33,8 +33,8 @@ feature_row:
 
 {% include feature_row %}
 
-[Contact us](/contact/) for a **FREE** site survey, planning meeting, and quote.
-{: .notice--primary .text-center}
+[Contact us for a **FREE** site survey, planning meeting, and quote.](/contact/)
+{: .btn .btn--warning .btn--large}
 
 [Follow us on Instagram](https://instagram.com/101aerial/) to see our work.
 {: .text-center}
