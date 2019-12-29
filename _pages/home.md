@@ -13,7 +13,7 @@ excerpt: "Urban and rural feral bird control. Aerial inspection and surveying. F
 feature_row:
   - image_path: /assets/images/artemis_temple_meads.jpg
     title: "Bird control"
-    excerpt: "Management of urban and industrial avian pests and associated problems.</a>"
+    excerpt: "Management of urban and industrial avian pests and associated problems."
     url: "/bird-control/"
     btn_label: "Learn more"
     btn_class: "btn--primary"
