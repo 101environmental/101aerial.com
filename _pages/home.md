@@ -15,19 +15,19 @@ intro:
 feature_row:
   - image_path: assets/images/artemis_temple_meads.jpg
     title: "Bird control"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Management of urban and industrial avian pests and associated problems."
     url: "/bird-control/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/care_home.jpg
     title: "Aerial inspection"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    excerpt: "Cost-effective inspection of inaccessible areas for industry and construction."
+    url: "/aerial-inspection/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/chris_catching_arty.jpg
     title: "Falconry experiences"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "An unforgettable opportunity for all ages."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
