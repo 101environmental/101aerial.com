@@ -1,6 +1,7 @@
 ---
 title: "Bird control"
 permalink: /bird-control/
+layout: single
 author_profile: false
 ---
 
