@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-GB"
 title                    : "101 Aerial"
 title_separator          : "-"
-subtitle                 : "aerial support for your business" # site tagline that appears below site title in masthead
+subtitle                 : "aerial support for work and play" # site tagline that appears below site title in masthead
 name                     : "101 Aerial"
 description              : "falconry | drones | environment | inspection"
 url                      : "https://101aerial.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
