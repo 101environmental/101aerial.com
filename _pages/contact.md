@@ -1,6 +1,8 @@
 ---
 title: "Contact"
 permalink: /contact/
+layout: single
+author_profile: false
 ---
 
 <form action="https://getsimpleform.com/messages?form_api_token=759e2ebdf56d3d14a69cf18872ce7c82" method="post">
