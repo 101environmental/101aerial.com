@@ -53,14 +53,13 @@ Need to check your roof for maintenance issues and nests? Want an aerial view fo
 101 Aerial can provide you with a birds-eye view faster, cheaper, and safer than traditional scaffolding and other methods.
 
 We've helped individuals and companies monitor build progress:
-{% include gallery caption="Build site progress monitoring." %}
+{% include gallery %}
 
 We've inspected new and old builds for maintenance issues:
-{% include gallery id="gallery2" caption="Roof inspections - new and old." %}
+{% include gallery id="gallery2" %}
 
 And we've supported industrial site maintenance, detecting and then using our [falconry services](/bird-control/) to deter nesting and eliminate issues from droppings:
-{% include gallery id="gallery2" caption="Warehouse roof - tricky areas and solar panels." %}
-
+{% include gallery id="gallery3" %}
 
 [Contact us for a FREE site survey and quote](/contact/){: .btn .btn--warning .btn--large .align-center}
 
