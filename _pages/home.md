@@ -31,7 +31,7 @@ feature_row:
     btn_class: "btn--primary"
 feature_row2:
   - url: "/contact/"
-    btn_label: "Contact us for a FREE site survey, planning meeting, and quote"
+    btn_label: "Contact us for a FREE site survey and quote"
     btn_class: "btn--warning btn--large align-center"
 feature_row3:
   - url: "https://instagram.com/101aerial/"
