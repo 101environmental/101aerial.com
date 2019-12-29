@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/artemis_yuneec.jpg
+  overlay_image: /assets/images/artemis_yuneec2.jpg
   actions:
     - label: "Get in touch"
       url: "/contact/"
