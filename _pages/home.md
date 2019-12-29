@@ -34,9 +34,9 @@ feature_row:
 {% include feature_row %}
 
 [Contact us for a FREE site survey, planning meeting, and quote.](/contact/)
-{: .btn .btn--warning .btn--large .text-center}
+{: .btn .btn--warning}
 
-[Follow us on Instagram to see our work.](https://instagram.com/101aerial/){: .btn .btn--info .text-center}
+[Follow us on Instagram to see our work.](https://instagram.com/101aerial/){: .btn .btn--info}
 
 <center>
 <div class='embedsocial-instagram' data-ref="c8e833a6a7ddacbed6df04c150834b6e328f091d"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/in.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialInstagramScript"));</script>
