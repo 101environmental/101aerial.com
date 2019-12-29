@@ -49,7 +49,7 @@ You don't get to meet many birds up close -- particularly not ones as spectacula
 We love introducing them to the public, in a relaxed and friendly atmosphere. And you'll never forget the first time you have a majestic hawk land on your arm.
 {% include gallery %}
 
-We can cater for all ages, and provide a full safety briefing and handling training. Get in touch for small and large events.
+We can cater for all ages, and provide a full safety briefing and handling training. An amazing experience for small and large events.
 {% include gallery id="gallery2" %}
 
 From a festival display with hundreds of spectators, to an intimate nature walk -- get in touch and we can get planning!
