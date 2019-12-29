@@ -1,5 +1,5 @@
 ---
-title: "Bird control & aerial inspection"
+title: "Falconry and drone services"
 layout: splash
 permalink: /
 header:
@@ -9,9 +9,9 @@ header:
   actions:
     - label: "Get in touch"
       url: "/contact/"
-excerpt: "Urban and rural feral bird control. Environment management. Aerial inspection and surveying. Falconry experiences. BPCA/RSPH/IBR/CAA certified and registered."
+excerpt: "Urban and rural feral bird control. Environment management. Aerial inspection and surveying. Falconry experiences. If it's in the air, we're on it."
 intro:
-  - excerpt: 'From bird control, to aerial filming and imaging, to an unforgettable falconry experience -- *101 Aerial can help you soar*.'
+  - excerpt: 'BPCA/RSPH/IBR/CAA certified and registered.'
 feature_row:
   - image_path: /assets/images/artemis_temple_meads.jpg
     title: "Bird control"
