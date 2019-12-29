@@ -27,7 +27,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/chris_catching_arty.jpg
     title: "Falconry experiences"
-    excerpt: "An unforgettable opportunity for all ages."
+    excerpt: "Get up close and personal with beautiful birds of prey. An unforgettable opportunity for all ages."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
