@@ -30,9 +30,13 @@ feature_row:
     btn_label: "Learn more"
     btn_class: "btn--primary"
 contact:
-  - excerpt: '<p><a href="/contact/">Get in touch</a> to book services or find out more.</p><p><a href="https://instagram.com/101aerial/">Follow us on Instagram</a> to see our work.</p>'
+  - excerpt: '<'
 ---
 
 {% include feature_row %}
 
-{% include feature_row id="contact" type="center" %}
+[Contact us](/contact/) for a **FREE** site survey, planning meeting, and quote.
+
+[Follow us on Instagram](https://instagram.com/101aerial/) to see our work.
+
+<div class='embedsocial-instagram' data-ref="c8e833a6a7ddacbed6df04c150834b6e328f091d"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/in.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialInstagramScript"));</script>
