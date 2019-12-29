@@ -13,6 +13,6 @@ header:
 excerpt: "Get up close and personal with birds of prey. An unforgettable experience for all ages."
 ---
 
-Falconry experiences. BPCA/RSPH/IBR/CAA certified and registered.
+Falconry experiences. BPCA/RSPH/IBR certified and registered.
 
 Videos and testimonials coming soon.

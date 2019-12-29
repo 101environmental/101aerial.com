@@ -13,6 +13,6 @@ header:
 excerpt: "Cost-effective inspection of inaccessible areas for industry and construction."
 ---
 
-Aerial inspection and surveying. BPCA/RSPH/IBR/CAA certified and registered.
+Aerial inspection and surveying. CAA certified and registered.
 
 Case studies coming soon.

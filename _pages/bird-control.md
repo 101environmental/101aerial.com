@@ -13,6 +13,6 @@ header:
 excerpt: "Management of urban and industrial avian pests and associated problems."
 ---
 
-Urban and rural feral bird control. BPCA/RSPH/IBR/CAA certified and registered.
+Urban and rural feral bird control. BPCA/RSPH/IBR certified and registered.
 
 As featured in the [Bristol Post article](https://outline.com/nfWqRS) about our work for Network Rail at Bristol Temple Meads station.
