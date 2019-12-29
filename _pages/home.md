@@ -30,7 +30,7 @@ feature_row:
     btn_label: "Learn more"
     btn_class: "btn--primary"
 contact:
-  - excerpt: '<p>[Get in touch](/contact/) to book services or find out more.</p><p>[Follow us on Instagram ](https://instagram.com/101aerial/) to see our work</p>'
+  - excerpt: '<p><a href="/contact/">Get in touch</a> to book services or find out more.</p><p><a href="https://instagram.com/101aerial/">Follow us on Instagram</a> to see our work.</p>'
 ---
 
 {% include feature_row %}
