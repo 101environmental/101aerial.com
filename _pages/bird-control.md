@@ -37,7 +37,7 @@ Our trained birds and handler will visit your site, and perform patrols and flig
 
 **Update:** Our Chief Falconer Chris, and harris hawk Artemis, were featured in the [Bristol Post](https://outline.com/nfWqRS) about our work for Network Rail at Bristol Temple Meads station!
 
-{% include gallery %}{: .align-center}
+{% include gallery layout="third" %}{: .align-center}
 
 [Contact us for a FREE site survey and quote](/contact/){: .btn .btn--warning .btn--large .align-center}
 
