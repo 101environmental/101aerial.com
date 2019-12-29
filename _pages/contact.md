@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 ---
 
-We're happy to discuss how we can help you -- with bird control, falconry experiences, aerial inspection, filming, and photography, or a combination of the above!
+We're happy to discuss how we can help you -- with bird control, falconry experiences, aerial inspection, filming and photography, or a combination of the above!
 
 Let us know what you're looking for and we'll be in touch with you shortly.
 
