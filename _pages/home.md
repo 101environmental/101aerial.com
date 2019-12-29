@@ -13,7 +13,7 @@ excerpt: "Urban and rural feral bird control. Environment management. Aerial ins
 intro:
   - excerpt: 'From bird control, to aerial filming and imaging, to an unforgettable falconry experience -- *101 Aerial can help you soar*.'
 feature_row:
-  - image_path: assets/images/artemis_temple_meads.jpg
+  - image_path: /assets/images/artemis_temple_meads.jpg
     title: "Bird control"
     excerpt: "Management of urban and industrial avian pests and associated problems."
     url: "/bird-control/"
