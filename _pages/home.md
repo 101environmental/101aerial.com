@@ -9,9 +9,7 @@ header:
   actions:
     - label: "Get in touch"
       url: "/contact/"
-excerpt: "Urban and rural feral bird control. Environment management. Aerial inspection and surveying. Falconry experiences. If it's in the air, we're on it. <br /><small>BPCA/RSPH/IBR/CAA certified and registered.</small>"
-intro:
-  - excerpt: ''
+excerpt: "Urban and rural feral bird control. Environment management. Aerial inspection and surveying. Falconry experiences. <br /><small>BPCA/RSPH/IBR/CAA certified and registered.</small>"
 feature_row:
   - image_path: /assets/images/artemis_temple_meads.jpg
     title: "Bird control"
@@ -31,8 +29,10 @@ feature_row:
     url: "/falconry-experiences/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+contact:
+  - excerpt: '[Get in touch](/contact/) to book services or find out more.'
 ---
 
-{% include feature_row id="intro" type="center" %}
-
 {% include feature_row %}
+
+{% include feature_row id="contact" type="center" %}
