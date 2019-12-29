@@ -7,13 +7,13 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/artemis_yuneec2.jpg
   actions:
-    - label: "Find out more"
-      url: "#services"
+    - label: "Get in touch"
+      url: "/contact/"
 excerpt: "Urban and rural feral bird control. Aerial inspection and surveying. Falconry experiences. <br /><small>BPCA/RSPH/IBR/CAA certified and registered.</small>"
 feature_row:
   - image_path: /assets/images/artemis_temple_meads.jpg
     title: "Bird control"
-    excerpt: "<a name='#services'>Management of urban and industrial avian pests and associated problems.</a>"
+    excerpt: "Management of urban and industrial avian pests and associated problems.</a>"
     url: "/bird-control/"
     btn_label: "Learn more"
     btn_class: "btn--primary"
@@ -33,10 +33,10 @@ feature_row:
 
 {% include feature_row %}
 
-[Contact us](/contact/) for a **FREE** site survey, planning meeting, and quote. {: .text-center}
-
-[Follow us on Instagram](https://instagram.com/101aerial/) to see our work. {: .text-center}
-
 <center>
+[Contact us](/contact/) for a **FREE** site survey, planning meeting, and quote.
+
+[Follow us on Instagram](https://instagram.com/101aerial/) to see our work.
+
 <div class='embedsocial-instagram' data-ref="c8e833a6a7ddacbed6df04c150834b6e328f091d"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/in.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialInstagramScript"));</script>
 </center>
