@@ -7,13 +7,13 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/artemis_yuneec2.jpg
   actions:
-    - label: "Get in touch"
-      url: "/contact/"
+    - label: "Find out more"
+      url: "#services"
 excerpt: "Urban and rural feral bird control. Aerial inspection and surveying. Falconry experiences. <br /><small>BPCA/RSPH/IBR/CAA certified and registered.</small>"
 feature_row:
   - image_path: /assets/images/artemis_temple_meads.jpg
     title: "Bird control"
-    excerpt: "Management of urban and industrial avian pests and associated problems."
+    excerpt: "<a name="#services" />Management of urban and industrial avian pests and associated problems."
     url: "/bird-control/"
     btn_label: "Learn more"
     btn_class: "btn--primary"
