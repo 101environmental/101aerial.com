@@ -29,10 +29,6 @@ feature_row:
     url: "/falconry-experiences/"
     btn_label: "Learn more"
     btn_class: "btn--primary"
-contact:
-  - excerpt: '[Get in touch](/contact/) to book services or find out more.'
 ---
 
 {% include feature_row %}
-
-{% include feature_row id="contact" type="center" %}
