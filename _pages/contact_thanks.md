@@ -1,6 +1,6 @@
 ---
 title: "Thanks!"
-permalink: /contact_thanks/
+permalink: /contact-thanks/
 layout: single
 author_profile: false
 ---
