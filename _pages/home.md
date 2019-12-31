@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Get in touch"
       url: "/contact/"
-excerpt: "Urban and rural bird control. Aerial inspection and surveying. Falconry experiences. <br /><small>BPCA/RSPH/IBR/CAA certified and registered.</small>"
+excerpt: "Urban and rural bird control. Aerial inspection and surveying. Falconry experiences. <br /><small>South West UK - Bristol, Gloucestershire, Worcestershire, Wiltshire. BPCA/RSPH/IBR/CAA certified and registered.</small>"
 feature_row:
   - image_path: /assets/images/artemis_temple_meads.jpg
     title: "Bird control"
