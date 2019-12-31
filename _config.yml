@@ -20,7 +20,7 @@ title                    : "101 Aerial"
 title_separator          : "-"
 subtitle                 : "air support. simplified." # site tagline that appears below site title in masthead
 name                     : "101 Aerial"
-description              : "Falconry and drone services. Urban and rural feral bird control. Aerial inspection and surveying. Falconry experiences. BPCA/RSPH/IBR/CAA certified and registered."
+description              : "Falconry and drone services. Urban and rural feral bird control. Aerial inspection and surveying. Falconry experiences. South West UK: Bristol, Gloucestershire, Worcestershire, Wiltshire &amp; surrounding area.<br />BPCA/RSPH/IBR/CAA certified and registered. BPCA/RSPH/IBR/CAA certified and registered."
 url                      : "https://101aerial.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
