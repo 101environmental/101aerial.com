@@ -11,4 +11,4 @@ Let us know what you're looking for and we'll be in touch with you shortly.
 
 <script type="text/javascript" src="/CHANGE/PATH/TO/spamspan.js"></script>
 
-Drop us an email at <span class="spamspan"><span class="u">hello</span>@<span class="d">101aerial.com</span> (<span class="subject">101 Aerial website enquiry</span>)</span>
+Drop us an email at <span class="spamspan"><span class="u">hello</span>@<span class="d">101aerial.com</span></span>
