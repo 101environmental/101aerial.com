@@ -9,13 +9,6 @@ We're happy to discuss how we can help you -- with bird control, falconry experi
 
 Let us know what you're looking for and we'll be in touch with you shortly.
 
-<form action="https://getsimpleform.com/messages?form_api_token=759e2ebdf56d3d14a69cf18872ce7c82" method="post">
-  <input type='hidden' name='redirect_to' value='https://101aerial.com/contact-thanks/' />
-  Your name:<input type='text' name='client_name' />
-  Your email:<input type='text' name='client_email' />
-  Your phone: <input type='text' name='client_phone' />
-  Your message: <textarea name="message" rows="10"></textarea>
-  <button type='submit' class='btn btn--primary'>Send</button>
-</form>
+<script type="text/javascript" src="/CHANGE/PATH/TO/spamspan.js"></script>
 
-Or just fire us an email at <a href="mailto:hello@101aerial.com?subject=101 Aerial website enquiry">hello@101aerial.com</a>!
+Drop us an email at <span class="spamspan"><span class="u">hello</span>@<span class="d">101aerial.com</span> (<span class="subject">101 Aerial website enquiry</span>)</span>
