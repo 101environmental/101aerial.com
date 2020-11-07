@@ -1,5 +1,5 @@
 ---
-title: "Falconry and drone services"
+title: "Falconry, drone, and pest control services"
 layout: splash
 permalink: /
 header:
@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Get in touch"
       url: "/contact/"
-excerpt: "Urban and rural bird control. Aerial inspection and surveying. Falconry experiences. <br /><small>South West UK: Bristol, Gloucestershire, Worcestershire, Wiltshire, Wales &amp; surrounding area.<br />BPCA/RSPH/IBR/CAA certified and registered.</small>"
+excerpt: "Urban and rural bird control. Aerial inspection and surveying. Falconry experiences. Domestic and commercial pest control. <br /><small>South West UK: Bristol, Gloucestershire, Worcestershire, Wiltshire, Wales &amp; surrounding area.<br />BPCA/RSPH/IBR/CAA certified and registered.</small>"
 feature_row:
   - image_path: /assets/images/artemis_temple_meads.jpg
     title: "Bird control"
