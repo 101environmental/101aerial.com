@@ -17,6 +17,12 @@ feature_row:
     url: "/bird-control/"
     btn_label: "Learn more"
     btn_class: "btn--primary"
+  - image_path: /assets/images/artemis_temple_meads.jpg
+    title: "Pest control"
+    excerpt: "Management of domestic and commercial pests."
+    url: "/pest-control/"
+    btn_label: "Learn more"
+    btn_class: "btn--primary"
   - image_path: /assets/images/care_home.jpg
     title: "Aerial inspection"
     excerpt: "Cost-effective inspection of inaccessible areas for industry and construction."
