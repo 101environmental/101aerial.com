@@ -2,9 +2,12 @@
 main:
   - title: "Bird control"
     url: /bird-control/
-  - title: "Aerial inspection"
-    url: /aerial-inspection/
   - title: "Falconry experiences"
     url: /falconry-experiences/
+  - title: "Pest control"
+    url: /pest-control/
+  - title: "Aerial inspection"
+    url: /aerial-inspection/
+  
   - title: "Contact"
     url: /contact
