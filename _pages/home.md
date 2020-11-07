@@ -1,5 +1,5 @@
 ---
-title: "Falconry, drone, and pest control services"
+title: "Falconry, drone and pest control services"
 layout: splash
 permalink: /
 header:
